@@ -1,0 +1,25 @@
+INDEX VERSION 1.134+/Users/jacobpassmore/eclipse-unitTesting/.metadata/.plugins/org.eclipse.jdt.core
+612413253.index
+2829201579.index
+2903143043.index
+2607005278.index
+4293577305.index
+3811437093.index
+2870628798.index
+3981961839.index
+178948916.index
+3143340361.index
+667876821.index
+703814053.index
+1865797976.index
+3882176232.index
+3688703435.index
+1095095280.index
+12129859.index
+2058642559.index
+191610008.index
+3122030125.index
+42716572.index
+1716880408.index
+2223684416.index
+2244256930.index
